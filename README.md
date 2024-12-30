@@ -12,7 +12,7 @@
 <p align="center">
 <a href="README.md"><img src="https://img.shields.io/badge/document-English-blue.svg" alt="EN doc"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
-<a href="https://twitter.com/strataai_"><img src="https://img.shields.io/twitter/follow/StrataAI?style=social" alt="Twitter Follow"></a>
+<a href="https://twitter.com/strataainet"><img src="https://img.shields.io/twitter/follow/StrataAI?style=social" alt="Twitter Follow"></a>
 </p>
 
 
@@ -68,4 +68,4 @@ Track query performance and engine efficiency through rich analytics dashboards,
 
 If you have any questions or feedback about this project, please feel free to contact us. We highly appreciate your suggestions!
 
-To stay updated with the latest research and development, follow [@StrataAI_](https://twitter.com/strataai_) on Twitter. 
+To stay updated with the latest research and development, follow [@StrataAI_](https://twitter.com/strataainet) on Twitter. 
