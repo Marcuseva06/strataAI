@@ -2,7 +2,7 @@
 # StrataAI: The Multi-Agent Framework
 
 <p align="center">
-<a href=""><img src="docs/resources/StrataAI-logo.jpeg" alt="StrataAI logo: Enable GPT to work in a software company, collaborating to tackle more complex tasks." width="150px"></a>
+<a href=""><img src="docs/resources/020.png" alt="StrataAI logo: Enable GPT to work in a software company, collaborating to tackle more complex tasks." width="1000px"></a>
 </p>
 
 <p align="center">
