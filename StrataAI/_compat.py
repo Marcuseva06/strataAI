@@ -15,6 +15,7 @@ if sys.implementation.name == "cpython" and platform.system() == "Windows":
                 self._sock.close()
 
         _ProactorBasePipeTransport.__del__ = pacth_del
+        #li
 
     if sys.version_info >= (3, 9, 0):
         from semantic_kernel.orchestration import sk_function as _  # noqa: F401
