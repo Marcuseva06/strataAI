@@ -66,6 +66,6 @@ Track query performance and engine efficiency through rich analytics dashboards,
 
 ### Contact Information
 
-If you have any questions or feedback about this project, please feel free to contact us. We highly appreciate your suggestions!
+If you have any questions or feedback about this project, please feel free to contact us, We highly appreciate your suggestions!
 
 To stay updated with the latest research and development, follow [@StrataAI_](https://twitter.com/strataainet) on Twitter. 
